@@ -16,7 +16,7 @@
 
 8. Use the top 5 counts of unique values from each column and print them out for their respective columns.
 
-9. I chose to find patterns within patients who had kidney transplants with diagnostic code '2940'.
+9. I chose to find patterns within patients who had kidney transplants with diagnostic code 'Z940'.
 
 10. The first one was finding the most common procedures performed on these patients. The procedures were all transplants of the either the right or left kidney.
 
