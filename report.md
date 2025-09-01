@@ -1,6 +1,6 @@
 <head>Documentation<head>
 
-<p>1. Imported pandas to do analysis on the dataset
+<body><p>1. Imported pandas to do analysis on the dataset
 
 2. Stored the dataset into the dataframe. Read the dataset and used the pipe symbol as a separator so that the columns would be more readable.
 
@@ -22,4 +22,4 @@
 
 11. Secondly, the most common HCPCS codes for these patients was found. The most common HCPCS code found was a replacement for the socket portion of an above knee prosthetic limb.
 
-12. Lastly, the most common claims DRG codes for these patients was found. The most common claims DRG code for these patients was that the admission for these patients into the hospital was not primarily due to illness but due to other health status factors.<p>
+12. Lastly, the most common claims DRG codes for these patients was found. The most common claims DRG code for these patients was that the admission for these patients into the hospital was not primarily due to illness but due to other health status factors.<p><body>
